@@ -1,7 +1,3 @@
-# test2
+# Project Design
 
-A Clojure app to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+For information regarding the project design and requirements please refer to the document in the repository entitled "Clojure Program Guideline".
